@@ -3,7 +3,7 @@
 [![release](http://github-release-version.herokuapp.com/github/CognizantQAHub/Cognizant-Intelligent-Test-Scripter/release.svg?style=flat)](../../releases/latest)
 
 
-Cognizant Intelligent Test Scripter is an open-source script-less test automation solution that provides a unified interface for all the “day-to-day” test automation activities such as test design, development, execution, reporting and maintenance.
+Cognizant Intelligent Test Scripter is an open-source script-less test automation solution that provides a unified interface for all the “day-to-day” test automation activities such as test design, development, execution, reporting, and maintenance.
 
 ## Download
 
@@ -25,7 +25,7 @@ To provide clarity on what is expected of our members, Cognizant Intelligent Tes
 
 If you have any queries on Cognizant Intelligent Test Scripter, please post your questions on [Cognizant ITS Google Group](https://groups.google.com/forum/#!forum/cognizant-intelligent-test-scripter).
 
-To ask specific questions on project development, to discuss future improvements or for any other technical detail, please join the [Cognizant ITS chat on Gitter](https://gitter.im/Cognizant-Intelligent-Test-Scripter).
+To ask specific questions on project development, to discuss future improvements, or for any other technical detail, please join the [Cognizant ITS chat on Gitter](https://gitter.im/Cognizant-Intelligent-Test-Scripter).
 
 ## License
 
